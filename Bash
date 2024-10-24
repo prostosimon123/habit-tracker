@@ -1,0 +1,3 @@
+   git clone https://github.com/ваш_логин/habit-tracker.git
+   cd habit-tracker
+   
